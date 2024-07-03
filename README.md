@@ -1,4 +1,5 @@
 This is the ITI Db Project 
+
 South valley university is looking forward to develop an electronic system for examination and evaluation
 system. The target system intended to engage head of scientific departments, professors of each
 department, undergraduate and post graduate students from different faculties, scientific degrees and
@@ -13,9 +14,13 @@ course. System should calculate results for exams automatically.
 Deliverables
 
 • ERD of the Database
+
 • Mapping And Normalization (3N)
+
 • Database Files
+
 • The following queries: -
+
 - Write a query that enables the students to view their results per course
 - Write a query that enables the head of department to see evaluation of each course and
 professor.
